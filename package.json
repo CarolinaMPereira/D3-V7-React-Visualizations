@@ -1,0 +1,31 @@
+{
+  "name": "d3v7-react-visualizations",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "d3": "^7.8.2",
+    "jquery": "^3.6.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "any-text": "^1.2.0",
+    "jest-canvas-mock": "^2.3.1",
+    "jest-watch-typeahead": "^2.2.2"
+  }
+}

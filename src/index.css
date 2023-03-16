@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  place-items: center;
+  --primary: #31a1ed;
+}
+
+.text-graph {
+  font-family: sans-serif !important;
+  font-weight: normal !important;
+}
+
+.text {
+  font-family: sans-serif !important;
+  font-weight: normal !important;
+  font-size: 14px;
+}
+
+.graph {
+  display: flex !important;
+  margin: auto !important;
+  margin-top: 2em !important;
+  align-items: center !important;
+  overflow: visible !important;
+  overflow-clip-margin: unset !important;
+  justify-content: center;
+}
