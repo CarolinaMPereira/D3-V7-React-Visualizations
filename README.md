@@ -6,7 +6,18 @@ This pack of plots includes:
 * Bidirectional bar chart
 * Grouped bar chart
 * Parallel coordinates plot
-* Scatter plot
+* Scatterplot
+
+## Functionality
+Interaction allowed:
+* Hovering
+* Selecting
+
+## Previews
+ <img src="./images/bidirectional-bar-chart.png" alt= "Bidirectional bar chart" height="200px">
+ <img src="./images/grouped-bar-chart.png" alt= "Grouped bar chart" height="200px">
+ <img src="./images/parallel-coordinates-plot.png" alt= "Parallel coordinates plot" height="200px">
+ <img src="./images/scatterplot.png" alt= "Scatterplot" height="200px">
 
 ## Run the application
 
