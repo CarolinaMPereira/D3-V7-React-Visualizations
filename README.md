@@ -1,5 +1,5 @@
 # D3 V7 React Visualizations
-A set plots developed with version 7 of D3.JS and integrated with ReactJS.
+A set plots developed with version 7 of D3.JS and integrated with ReactJS version 18.
 
 ## Plots included
 This pack of plots includes:
