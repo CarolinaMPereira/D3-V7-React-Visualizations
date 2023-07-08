@@ -2,7 +2,7 @@
 [![Last release](https://badgen.net/github/release/CarolinaMPereira/D3-V7-React-Visualizations)](https://github.com/CarolinaMPereira/D3-V7-React-Visualizations)
 
 # D3 V7 React Visualizations
-A set plots developed with version 7 of D3.JS and integrated with ReactJS version 18.
+A set of plots developed with version 7 of D3.JS and integrated with ReactJS version 18.
 
 ## Plots included
 This pack of plots includes:
