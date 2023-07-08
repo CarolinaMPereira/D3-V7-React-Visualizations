@@ -1,11 +1,10 @@
 {
   "name": "d3v7-react-visualizations",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.3",
     "d3": "^7.8.2",
-    "jquery": "^3.6.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",
